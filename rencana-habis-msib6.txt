@@ -1,13 +1,14 @@
-Davit Rencana Habis Selesai MSIB Stupen Gamelab
-- Kemungkinan mendaftar MSIB lagi Batch 7 tapi untuk yang Magang
-  * Ini saya masih bingug antara ingin mendaftar MSIB lagi atau tidak
-- Menyelesaikan semua SKS yang dibutuhkan 
-* Tapi masih bingung soalnya belum rencana projeknya
-  * Pengen mencari pengalaman dengan mengikuti MSIB lagi tapi ga ada biaya
-  * Pengen ambil TA langsung juga tapi belum ada rencana mau buat project apa
-- Mengambil TA di mata kuliah
- * Tapi masih bingung soalnya belum rencana projeknya
- * Pengen lulus cepat tapi belum ada rencana dan pengalaman masih kurang
-- Menyelesaikan semua SKS yang dibutuhkan 
-- Habis kuliah dan lulus cepat niatnya mau langsung kerja 
+Rencana Konten Pak Davit
 
+- Javascript
+ * ES6
+ * Framework Javascript
+   ^ Vue
+   ^ React
+   ^ Angular
+- Struktur Data Besar
+- PHP Framework
+  ^ Laravel
+- Interview
+- Vlogs
+- Python
