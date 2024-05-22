@@ -1,3 +1,6 @@
 Davit Resolusi
 - Setiap hari membuka laptop dan belajar coding
 - Belajar PHP Native dulu sampai paham dengan semua logika PHP
+- Jika sudah paham semua tentang logika PHP, next belajar Laravel
+- Saya akan belajar fundamental laravel sampai paham
+- Membuat beberapa project dengan laravel
