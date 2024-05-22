@@ -1,0 +1,3 @@
+Davit Resolusi
+- Setiap hari membuka laptop dan belajar coding
+- Belajar PHP Native dulu sampai paham dengan semua logika PHP
